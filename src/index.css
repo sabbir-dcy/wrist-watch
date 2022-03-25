@@ -21,3 +21,7 @@ code {
   font-weight: 400;
   font-family: "poppins";
 }
+
+:root {
+  --theme-color: #21242C
+}

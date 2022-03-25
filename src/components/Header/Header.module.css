@@ -1,6 +1,6 @@
 .navbar {
   height: 5rem;
-  background-color: #21242C;
+  background-color: var(--theme-color);
   color: white;
   display: grid;
   justify-content: center;
