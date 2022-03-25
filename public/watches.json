@@ -83,33 +83,5 @@
     "brand": "Tissot",
     "price": "$296.15",
     "img": "https://www.tissotwatches.com/media/catalog/product/cache/aaadd316e453df5b08f7f4246fad1a9c/T/1/T134.410.37.051.00_R.png?im=Resize=(490,490),aspect=fill;Crop=(0,0,490,490),gravity=Center"
-  },
-  {
-    "id": "623dfc15ba79d38164f85324",
-    "name": "",
-    "brand": "Tissot",
-    "price": "$148.61",
-    "img": ""
-  },
-  {
-    "id": "623dfc158d802337080bf8c9",
-    "name": "",
-    "brand": "Tissot",
-    "price": "$312.89",
-    "img": ""
-  },
-  {
-    "id": "623dfc1591a3563f7e917818",
-    "name": "",
-    "brand": "Tissot",
-    "price": "$380.57",
-    "img": ""
-  },
-  {
-    "id": "623dfc1562f3df4d77f9bf46",
-    "name": "",
-    "brand": "Tissot",
-    "price": "$331.49",
-    "img": ""
   }
 ]

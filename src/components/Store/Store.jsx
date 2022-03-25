@@ -15,6 +15,10 @@ const Store = () => {
 
   const clickHandler = (product) => {
     const newCartProducts = [...cartProducts, product]
+    if (cartProducts.length >= 4) {
+      alert('four done')
+      return
+    }
     setCartProducts(newCartProducts)
   };
   return (

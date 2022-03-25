@@ -14,6 +14,7 @@
 
 .upper .thumbnail {
   background-color: rgb(240, 240, 240);
+  border-radius: .5rem;
 }
 .upper .thumbnail img {
   width: 100%;
