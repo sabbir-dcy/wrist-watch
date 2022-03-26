@@ -15,12 +15,13 @@
     "img": "https://www.tissotwatches.com/media/catalog/product/cache/aaadd316e453df5b08f7f4246fad1a9c/T/1/T122.423.16.043.00_R_1.png?im=Resize=(490,490),aspect=fill;Crop=(0,0,490,490),gravity=Center"
   },
   {
-    "id": "623dfc15a499eecba01a4a3c",
-    "name": "TISSOT TRADITION",
+    "id": "623dfc155e27d6befe580593",
+    "name": "EVERYTIME SWISSMATIC",
     "brand": "Tissot",
-    "price": "$224.36",
-    "img": "https://www.tissotwatches.com/media/catalog/product/cache/aaadd316e453df5b08f7f4246fad1a9c/T/0/T063.610.16.038.00_R_1.png?im=Resize=(490,490),aspect=fill;Crop=(0,0,490,490),gravity=Center"
+    "price": "$114.11",
+    "img": "https://www.tissotwatches.com/media/catalog/product/cache/aaadd316e453df5b08f7f4246fad1a9c/T/1/T109.407.16.031.00_R_1.png?im=Resize=(490,490),aspect=fill;Crop=(0,0,490,490),gravity=Center"
   },
+
   {
     "id": "623dfc155533c9c248b1def7",
     "name": "EXCELLENCE 18K GOLD",
@@ -29,12 +30,13 @@
     "img": "https://www.tissotwatches.com/media/catalog/product/cache/aaadd316e453df5b08f7f4246fad1a9c/T/9/T926.410.76.041.00_R_1.png?im=Resize=(490,490),aspect=fill;Crop=(0,0,490,490),gravity=Center"
   },
   {
-    "id": "623dfc155e27d6befe580593",
-    "name": "EVERYTIME SWISSMATIC",
+    "id": "623dfc15a499eecba01a4a3c",
+    "name": "TISSOT TRADITION",
     "brand": "Tissot",
-    "price": "$114.11",
-    "img": "https://www.tissotwatches.com/media/catalog/product/cache/aaadd316e453df5b08f7f4246fad1a9c/T/1/T109.407.16.031.00_R_1.png?im=Resize=(490,490),aspect=fill;Crop=(0,0,490,490),gravity=Center"
+    "price": "$224.36",
+    "img": "https://www.tissotwatches.com/media/catalog/product/cache/aaadd316e453df5b08f7f4246fad1a9c/T/0/T063.610.16.038.00_R_1.png?im=Resize=(490,490),aspect=fill;Crop=(0,0,490,490),gravity=Center"
   },
+
   {
     "id": "623dfc15262ef2f36c5527f0",
     "name": "PREMIUM POWERMATIC 80",

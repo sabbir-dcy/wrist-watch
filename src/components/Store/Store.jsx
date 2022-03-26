@@ -16,7 +16,7 @@ const Store = () => {
   const clickHandler = (product) => {
     const newCartProducts = [...cartProducts, product]
     if (cartProducts.length >= 4) {
-      alert('four done')
+      alert('can not add more than 4 product')
       return
     }
     setCartProducts(newCartProducts)
