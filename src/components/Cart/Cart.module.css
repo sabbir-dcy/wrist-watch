@@ -18,6 +18,23 @@
   border-bottom: 2px solid white;
 }
 
+.random__product {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  align-items: center;
+  gap:.5rem;
+  background-color: #414758;
+  padding: .5rem;
+  border-radius: 3.125rem;
+  margin-top: 1rem;
+}
+
+.random__product img{
+  width: 90%;
+  background-color: rgb(240, 240, 240);
+  border-radius: 50%;
+}
+
 
 .random__btn {
   position: absolute;
@@ -27,6 +44,7 @@
   margin: auto;
   transform: translate(-50%);
   width: 75%;
+  cursor: pointer;
 }
 
 @media only screen and (max-width: 768px) {
