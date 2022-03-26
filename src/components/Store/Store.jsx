@@ -14,11 +14,16 @@ const Store = () => {
   }, []);
 
   const clickHandler = (product) => {
-    const newCartProducts = [...cartProducts, product]
+    const match = cartProducts.find((pd) => pd.id === product.id)
     if (cartProducts.length >= 4) {
       alert('can not add more than 4 product')
       return
     }
+    if (match) {
+      alert('cant add same product twice')
+      return
+    }
+    const newCartProducts = [...cartProducts, product]
     setCartProducts(newCartProducts)
   };
 

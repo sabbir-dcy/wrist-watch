@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import AddedProduct from "../AddedProduct/AddedProduct";
 import style from "./Cart.module.css";
 
-const Cart = ({ products , resetHandler}) => {
+const Cart = ({ products, resetHandler }) => {
   const [randomProduct, setRandomProduct] = useState("");
   const [disable, setDisable] = useState(false);
   const [display, setDisplay] = useState("block");
@@ -34,9 +34,8 @@ const Cart = ({ products , resetHandler}) => {
             <AddedProduct
               name={product.name}
               img={product.img}
-              key={Math.random()}
+              key={product.id}
             />
-            // used math.random incase multiple product get added to cart. because similar product has same id
           ))}
         </div>
         <div
@@ -57,7 +56,9 @@ const Cart = ({ products , resetHandler}) => {
         >
           random choice
         </button>
-        <button onClick={resetHandler} className={style.cart__btn}>reset</button>
+        <button onClick={resetHandler} className={style.cart__btn}>
+          reset
+        </button>
       </div>
     </div>
   );

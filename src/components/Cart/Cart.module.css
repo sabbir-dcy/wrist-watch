@@ -34,8 +34,10 @@
 }
 
 .cart__btn {
-  margin-top: 1rem;
+  margin: 1rem auto 0;
+  display: block;
   padding: .5rem 1.25rem;
+  width: 75%;
   cursor: pointer;
   border-radius: .3rem;
   border: none;
