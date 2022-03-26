@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+
 import AddedProduct from "../AddedProduct/AddedProduct";
 import style from "./Cart.module.css";
 
@@ -24,7 +24,7 @@ const Cart = ({ products, resetHandler, isDisabled=false, randomHandler }) => {
         <button
           onClick={randomHandler}
           disabled={isDisabled}
-          className={style.cart__btn}
+          className={`${style.cart__btn} ${style.choose__btn}`}
         >
           random choice
         </button>

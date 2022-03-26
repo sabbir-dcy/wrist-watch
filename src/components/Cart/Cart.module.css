@@ -38,6 +38,10 @@
   color: white;
 }
 
+.choose__btn:disabled {
+  background-color: gray;
+} 
+
 @media only screen and (max-width: 768px) {
   .cart {
     position: initial;

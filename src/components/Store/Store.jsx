@@ -6,7 +6,7 @@ import style from "./Store.module.css";
 const Store = () => {
   const [products, setProducts] = useState([]);
   const [cartProducts, setCartProducts] = useState([]);
-  const [randomPd, setRandomPd] = useState([]);
+  // const [randomPd, setRandomPd] = useState([]);
   const [isDisabled, setIsDisabled] = useState(false)
 
   useEffect(() => {
@@ -37,13 +37,14 @@ const Store = () => {
     const num = Math.floor(Math.random() * cartProducts.length);
 
     const randPd = cartProducts[num]
-    setRandomPd(randPd);
+    // setRandomPd(randPd);
     setIsDisabled(true)
-    alert(randPd.name)
+    alert(`${randPd.name}, this watch we think might be best for you`)
   };
 
   const resetHandler = () => {
     setCartProducts([]);
+    setIsDisabled(false)
   };
   return (
     <div className={style.store}>
