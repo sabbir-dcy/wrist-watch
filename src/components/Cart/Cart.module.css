@@ -19,19 +19,6 @@
   border-bottom: 2px solid white;
 }
 
-.random__product {
-  background-color: #2a2e38;
-  text-align: center;
-}
-
-.random__product img{
-  width: 100%;
-  background-color: #2a2e38;
-}
-
-.random__product .price {
-  font-size: 1.5rem;
-}
 
 .cart__btn {
   margin: 1rem auto 0;
