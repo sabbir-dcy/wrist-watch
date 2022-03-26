@@ -6,7 +6,6 @@
   flex-direction: column;
   justify-content: space-between;
   overflow: hidden;
-  margin-top: 4rem;
 }
 .upper, .lower {
   padding: .3rem;

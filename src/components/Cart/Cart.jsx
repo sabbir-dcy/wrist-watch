@@ -5,8 +5,8 @@ import style from "./Cart.module.css";
 const Cart = ({ products }) => {
   const [randomProduct, setRandomProduct] = useState("");
   const [disable, setDisable] = useState(false);
-  const [display, setDisplay] = useState("1");
-  const [visibility, setVisibility] = useState("hidden");
+  const [display, setDisplay] = useState("block");
+  const [visibility, setVisibility] = useState("none");
 
   const randomChoice = () => {
     // random number cant be more than the products have in cart
@@ -15,36 +15,38 @@ const Cart = ({ products }) => {
       return;
     }
     const random = Math.floor(Math.random() * products.length);
-    chooseOne(random)
+    chooseOne(random);
   };
 
   const chooseOne = (random) => {
     setRandomProduct(products[random]);
-    setVisibility('visible')
+    setVisibility("block");
     setDisable(true);
-    setDisplay(".2");
-  }
+    setDisplay("none");
+  };
 
   return (
     <div className={style.cart}>
-      <h2 className={style.cart__title}>watch busket</h2>
-      <div style={{ opacity: `${display}` }}>
-        {products.map((product) => (
-          <AddedProduct
-            name={product.name}
-            img={product.img}
-            key={Math.random()}
-          />
-          // used math.random incase multiple product get added to cart. because similar product has same id
-        ))}
-      </div>
-
-      <div
-        className={style.random__product}
-        style={{ visibility: `${visibility}` }}
-      >
-        <img src={randomProduct.img} alt="" />
-        <h2>{randomProduct.name}</h2>
+      <div>
+        <h2 className={style.cart__title}>watch busket</h2>
+        <div style={{ display: `${display}` }}>
+          {products.map((product) => (
+            <AddedProduct
+              name={product.name}
+              img={product.img}
+              key={Math.random()}
+            />
+            // used math.random incase multiple product get added to cart. because similar product has same id
+          ))}
+        </div>
+        <div
+          className={style.random__product}
+          style={{ display: `${visibility}` }}
+        >
+          <img src={randomProduct.img} alt="" />
+          <h2>{randomProduct.name}</h2>
+          <h2 className={style.price}>{randomProduct.price}</h2>
+        </div>
       </div>
 
       <button

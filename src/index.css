@@ -25,3 +25,9 @@ code {
 :root {
   --theme-color: #21242C;
 }
+
+@media only screen and (max-width: 768px) {
+  * {
+    font-size: 18px;
+  }
+}
