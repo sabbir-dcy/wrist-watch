@@ -5,7 +5,7 @@
     "brand": "Tissot",
     "price": "$339.27",
     "img": "https://www.tissotwatches.com/media/catalog/product/cache/aaadd316e453df5b08f7f4246fad1a9c/T/1/T122.417.16.011.00_R_1.png?im=Resize=(1710,1710),aspect=fill;Crop=(0,0,1710,1710),gravity=Center",
-    "details" : "The Excellence Gold collection shines in its simplicity and purest form. The Excellence Gent is a gold watch in 18K that has been designed with thinness and simplicity in mind. The thinness of the watch will perfectly match the shape of any wrist and easily slip under the sleeve."
+    "detail" : "The Excellence Gold collection shines in its simplicity and purest form. The Excellence Gent is a gold watch in 18K that has been designed with thinness and simplicity in mind. The thinness of the watch will perfectly match the shape of any wrist and easily slip under the sleeve."
   },
 
   {
@@ -13,14 +13,16 @@
     "name": "GENT MOONPHASE",
     "brand": "Tissot",
     "price": "$174.28",
-    "img": "https://www.tissotwatches.com/media/catalog/product/cache/aaadd316e453df5b08f7f4246fad1a9c/T/1/T122.423.16.043.00_R_1.png?im=Resize=(490,490),aspect=fill;Crop=(0,0,490,490),gravity=Center"
+    "img": "https://www.tissotwatches.com/media/catalog/product/cache/aaadd316e453df5b08f7f4246fad1a9c/T/1/T122.423.16.043.00_R_1.png?im=Resize=(490,490),aspect=fill;Crop=(0,0,490,490),gravity=Center",
+    "detail" : "The Excellence Gold collection shines in its simplicity and purest form. The Excellence Gent is a gold watch in 18K that has been designed with thinness and simplicity in mind. The thinness of the watch will perfectly match the shape of any wrist and easily slip under the sleeve."
   },
   {
     "id": "623dfc155e27d6befe580593",
     "name": "EVERYTIME SWISSMATIC",
     "brand": "Tissot",
     "price": "$114.11",
-    "img": "https://www.tissotwatches.com/media/catalog/product/cache/aaadd316e453df5b08f7f4246fad1a9c/T/1/T109.407.16.031.00_R_1.png?im=Resize=(490,490),aspect=fill;Crop=(0,0,490,490),gravity=Center"
+    "img": "https://www.tissotwatches.com/media/catalog/product/cache/aaadd316e453df5b08f7f4246fad1a9c/T/1/T109.407.16.031.00_R_1.png?im=Resize=(490,490),aspect=fill;Crop=(0,0,490,490),gravity=Center",
+    "detail" : "The Excellence Gold collection shines in its simplicity and purest form. The Excellence Gent is a gold watch in 18K that has been designed with thinness and simplicity in mind. The thinness of the watch will perfectly match the shape of any wrist and easily slip under the sleeve."
   },
 
   {
@@ -28,14 +30,16 @@
     "name": "EXCELLENCE 18K GOLD",
     "brand": "Tissot",
     "price": "$214.57",
-    "img": "https://www.tissotwatches.com/media/catalog/product/cache/aaadd316e453df5b08f7f4246fad1a9c/T/9/T926.410.76.041.00_R_1.png?im=Resize=(490,490),aspect=fill;Crop=(0,0,490,490),gravity=Center"
+    "img": "https://www.tissotwatches.com/media/catalog/product/cache/aaadd316e453df5b08f7f4246fad1a9c/T/9/T926.410.76.041.00_R_1.png?im=Resize=(490,490),aspect=fill;Crop=(0,0,490,490),gravity=Center",
+    "detail" : "The Excellence Gold collection shines in its simplicity and purest form. The Excellence Gent is a gold watch in 18K that has been designed with thinness and simplicity in mind. The thinness of the watch will perfectly match the shape of any wrist and easily slip under the sleeve."
   },
   {
     "id": "623dfc15a499eecba01a4a3c",
     "name": "TISSOT TRADITION",
     "brand": "Tissot",
     "price": "$224.36",
-    "img": "https://www.tissotwatches.com/media/catalog/product/cache/aaadd316e453df5b08f7f4246fad1a9c/T/0/T063.610.16.038.00_R_1.png?im=Resize=(490,490),aspect=fill;Crop=(0,0,490,490),gravity=Center"
+    "img": "https://www.tissotwatches.com/media/catalog/product/cache/aaadd316e453df5b08f7f4246fad1a9c/T/0/T063.610.16.038.00_R_1.png?im=Resize=(490,490),aspect=fill;Crop=(0,0,490,490),gravity=Center",
+    "detail" : "The Excellence Gold collection shines in its simplicity and purest form. The Excellence Gent is a gold watch in 18K that has been designed with thinness and simplicity in mind. The thinness of the watch will perfectly match the shape of any wrist and easily slip under the sleeve."
   },
 
   {
@@ -43,48 +47,55 @@
     "name": "PREMIUM POWERMATIC 80",
     "brand": "Tissot",
     "price": "$202.31",
-    "img": "https://www.tissotwatches.com/media/catalog/product/cache/aaadd316e453df5b08f7f4246fad1a9c/T/1/T122.407.22.031.01_R_1.png?im=Resize=(490,490),aspect=fill;Crop=(0,0,490,490),gravity=Center"
+    "img": "https://www.tissotwatches.com/media/catalog/product/cache/aaadd316e453df5b08f7f4246fad1a9c/T/1/T122.407.22.031.01_R_1.png?im=Resize=(490,490),aspect=fill;Crop=(0,0,490,490),gravity=Center",
+    "detail" : "The Excellence Gold collection shines in its simplicity and purest form. The Excellence Gent is a gold watch in 18K that has been designed with thinness and simplicity in mind. The thinness of the watch will perfectly match the shape of any wrist and easily slip under the sleeve."
   },
   {
     "id": "623dfc15786aff976470006e",
     "name": "EXCELLENCE AUTOMATIC 18K GOLD",
     "brand": "Tissot",
     "price": "$381.77",
-    "img": "https://www.tissotwatches.com/media/catalog/product/cache/aaadd316e453df5b08f7f4246fad1a9c/T/9/T926.407.76.263.00_R_1.png?im=Resize=(490,490),aspect=fill;Crop=(0,0,490,490),gravity=Center"
+    "img": "https://www.tissotwatches.com/media/catalog/product/cache/aaadd316e453df5b08f7f4246fad1a9c/T/9/T926.407.76.263.00_R_1.png?im=Resize=(490,490),aspect=fill;Crop=(0,0,490,490),gravity=Center",
+    "detail" : "The Excellence Gold collection shines in its simplicity and purest form. The Excellence Gent is a gold watch in 18K that has been designed with thinness and simplicity in mind. The thinness of the watch will perfectly match the shape of any wrist and easily slip under the sleeve."
   },
   {
     "id": "623dfc155a130764876110b0",
     "name": "CHRONO XL",
     "brand": "Tissot",
     "price": "$195.90",
-    "img": "https://www.tissotwatches.com/media/catalog/product/cache/aaadd316e453df5b08f7f4246fad1a9c/T/1/T116.617.36.057.00_R.png?im=Resize=(490,490),aspect=fill;Crop=(0,0,490,490),gravity=Center"
+    "img": "https://www.tissotwatches.com/media/catalog/product/cache/aaadd316e453df5b08f7f4246fad1a9c/T/1/T116.617.36.057.00_R.png?im=Resize=(490,490),aspect=fill;Crop=(0,0,490,490),gravity=Center",
+    "detail" : "The Excellence Gold collection shines in its simplicity and purest form. The Excellence Gent is a gold watch in 18K that has been designed with thinness and simplicity in mind. The thinness of the watch will perfectly match the shape of any wrist and easily slip under the sleeve."
   },
   {
     "id": "623dfc15b84914f35c6a618a",
     "name": "BRIDGEPORT",
     "brand": "Tissot",
     "price": "$104.28",
-    "img": "https://www.tissotwatches.com/media/catalog/product/cache/aaadd316e453df5b08f7f4246fad1a9c/T/0/T097.410.22.038.00_R_1.png?im=Resize=(490,490),aspect=fill;Crop=(0,0,490,490),gravity=Center"
+    "img": "https://www.tissotwatches.com/media/catalog/product/cache/aaadd316e453df5b08f7f4246fad1a9c/T/0/T097.410.22.038.00_R_1.png?im=Resize=(490,490),aspect=fill;Crop=(0,0,490,490),gravity=Center",
+    "detail" : "The Excellence Gold collection shines in its simplicity and purest form. The Excellence Gent is a gold watch in 18K that has been designed with thinness and simplicity in mind. The thinness of the watch will perfectly match the shape of any wrist and easily slip under the sleeve."
   },
   {
     "id": "623dfc15717ec370053329c5",
     "name": "HERITAGE VISODATE POWERMATIC",
     "brand": "Tissot",
     "price": "$352.78",
-    "img": "https://www.tissotwatches.com/media/catalog/product/cache/aaadd316e453df5b08f7f4246fad1a9c/T/1/T118.430.16.271.00_R_1.png?im=Resize=(490,490),aspect=fill;Crop=(0,0,490,490),gravity=Center"
+    "img": "https://www.tissotwatches.com/media/catalog/product/cache/aaadd316e453df5b08f7f4246fad1a9c/T/1/T118.430.16.271.00_R_1.png?im=Resize=(490,490),aspect=fill;Crop=(0,0,490,490),gravity=Center",
+    "detail" : "The Excellence Gold collection shines in its simplicity and purest form. The Excellence Gent is a gold watch in 18K that has been designed with thinness and simplicity in mind. The thinness of the watch will perfectly match the shape of any wrist and easily slip under the sleeve."
   },
   {
     "id": "623dfc15fae156530a241cb5",
     "name": "HERITAGE VISODATE AUTOMATIC",
     "brand": "Tissot",
     "price": "$389.48",
-    "img": "https://www.tissotwatches.com/media/catalog/product/cache/aaadd316e453df5b08f7f4246fad1a9c/T/0/T019.430.11.031.00_R_1.png?im=Resize=(490,490),aspect=fill;Crop=(0,0,490,490),gravity=Center"
+    "img": "https://www.tissotwatches.com/media/catalog/product/cache/aaadd316e453df5b08f7f4246fad1a9c/T/0/T019.430.11.031.00_R_1.png?im=Resize=(490,490),aspect=fill;Crop=(0,0,490,490),gravity=Center",
+    "detail" : "The Excellence Gold collection shines in its simplicity and purest form. The Excellence Gent is a gold watch in 18K that has been designed with thinness and simplicity in mind. The thinness of the watch will perfectly match the shape of any wrist and easily slip under the sleeve."
   },
   {
     "id": "623dfc15cd3ad7643957747e",
     "name": "HERITAGE MEMPHIS GENT",
     "brand": "Tissot",
     "price": "$296.15",
-    "img": "https://www.tissotwatches.com/media/catalog/product/cache/aaadd316e453df5b08f7f4246fad1a9c/T/1/T134.410.37.051.00_R.png?im=Resize=(490,490),aspect=fill;Crop=(0,0,490,490),gravity=Center"
+    "img": "https://www.tissotwatches.com/media/catalog/product/cache/aaadd316e453df5b08f7f4246fad1a9c/T/1/T134.410.37.051.00_R.png?im=Resize=(490,490),aspect=fill;Crop=(0,0,490,490),gravity=Center",
+    "detail" : "The Excellence Gold collection shines in its simplicity and purest form. The Excellence Gent is a gold watch in 18K that has been designed with thinness and simplicity in mind. The thinness of the watch will perfectly match the shape of any wrist and easily slip under the sleeve."
   }
 ]

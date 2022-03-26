@@ -7,6 +7,7 @@
   justify-content: space-between;
   overflow: hidden;
 }
+
 .upper, .lower {
   padding: .3rem;
 }
@@ -14,10 +15,21 @@
 .upper .thumbnail {
   background-color: rgb(240, 240, 240);
   border-radius: .5rem;
+  overflow: hidden;
+  position: relative;
 }
 .upper .thumbnail img {
   width: 100%;
   display: block;
+  transition: .5s ease;
+}
+.product:hover .detail {
+  left: 25%;
+  /* transform: translate(-100%); */
+}
+
+.product:hover .thumbnail img {
+  transform: translate(-50%);
 }
 .upper__info,
 .lower__info {
@@ -28,6 +40,22 @@
 }
 .upper__info .price {
   font-size: 2rem;
+}
+
+.thumbnail .detail {
+  position: absolute;
+  top: 0;
+  left: 100%;
+  width: 75%;
+  height: 100%;
+  padding: 1rem;
+  transition: .5s ease;
+  background-color: var(--theme-color);
+  color: white;
+}
+
+.thumbnail .detail p {
+  font-size: .9rem;
 }
 .lower {
   display: flex;

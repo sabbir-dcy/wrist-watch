@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import AddedProduct from "../AddedProduct/AddedProduct";
 import style from "./Cart.module.css";
 
-const Cart = ({ products }) => {
+const Cart = ({ products , resetHandler}) => {
   const [randomProduct, setRandomProduct] = useState("");
   const [disable, setDisable] = useState(false);
   const [display, setDisplay] = useState("block");
@@ -49,13 +49,16 @@ const Cart = ({ products }) => {
         </div>
       </div>
 
-      <button
-        onClick={randomChoice}
-        disabled={disable}
-        className={style.random__btn}
-      >
-        random choice
-      </button>
+      <div>
+        <button
+          onClick={randomChoice}
+          disabled={disable}
+          className={style.cart__btn}
+        >
+          random choice
+        </button>
+        <button onClick={resetHandler} className={style.cart__btn}>reset</button>
+      </div>
     </div>
   );
 };
